@@ -4,8 +4,6 @@ Maker Media GmbH
 
 ***
 
-# SMD-Feeder
-
 # Akku-Kapazitäts-Messgerät
 
 
