@@ -9,7 +9,7 @@ Maker Media GmbH
 
 ### Stückliste
 
- Halbleiter
+  Halbleiter
   U1  Arduino Nano oder kompatibel
   U2  LCD 2x16 Zeichen, beleuchtet
   U3  MCP4911 EP DIL (Microchip, Reichelt MCP 4911-E/P)
