@@ -10,6 +10,10 @@ Maker Media GmbH
 
 ![Picture](https://github.com/MakeMagazinDE/Kapazit-Messg/blob/master/kapmess_gh.JPG)
 
+Gerber-Files zur Platinenfertigung; Abmessungen der Platine 100 x 80 mm, 2-lagig 1,55mm FR4, Lötstopplack oben und unten, Bestückungsdruck oben. Eine Leerplatine wird auch im Heise-Shop verfügbar sein.
+
+### Nachlese
+
 R5..R7 sind für blaue Displays mit weißer Hintergrundbeleuchtung bemessen. Ggf. ist R5 bei unzureichender Kontrast-Einstellbarkeit kleiner zu wählen (2k2..4k7). R6 und R7 sind so zu bemessen, dass der Nennstrom der Hintergrundbeleuchtung nicht überschritten wird.
 
 R13 ist nur bei erhöhten Anforderungen an die Genauigkeit erforderlich (Referenzspannung auf +2,50V gegenüber Masse an PL3 einstellen).
