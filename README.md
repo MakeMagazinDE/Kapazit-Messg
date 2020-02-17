@@ -38,8 +38,8 @@ Für die Genauigkeit der Messung ist R10 entscheidend. Statt eines teuren Mangan
 	R4  20k 1%
 	R6, R7  100R (siehe Text)
 	R9  2k2
-	R10	1R 5W axial (siehe Text)
-	R11 1k
+	R10  1R 5W axial (siehe Text)
+	R11  1k
 	R13 Präz. Trimmer stehend, 10k (siehe Text, Reichelt 64W-10K)
   
 	Kondensatoren
