@@ -18,6 +18,8 @@ Mit dem billigen OpAmp LM358 für U5 wird der maximal einstellbare Strom (2A) ni
 
 Q1 benötigt einen Kühlkörper für TO220 mit weniger als 10 K/W, beispielsweise die Gehäuse-Seitenwand. Für höhere Verlustleistungen können auch zwei MOSFETs parallel geschaltet werden, wenn in jede Gate-Leitung ein 1k-Widerstand eingefügt wird (siehe R11 im Schaltplan).
 
+Für die Genauigkeit der Messung ist R10 entscheidend. Statt eines teuren Präzisionswiderstands (Lötpads hierfür sind vorhanden, z.B. für Widerstände mit 4-Leiter-Anschluss von Isabellenhütte) bestellen Sie einfach mehrere 1R-Widerstände und wählen den genauesten aus. Am besten eignet sich hierfür ein Tischmultimeter mit 4-Leiter-Messung.
+
 ### Stückliste
 
 	Halbleiter
@@ -36,6 +38,7 @@ Q1 benötigt einen Kühlkörper für TO220 mit weniger als 10 K/W, beispielsweis
 	R4  20k 1%
 	R6, R7  100R (siehe Text)
 	R9  2k2
+	R10	1R 5W axial (siehe Text)
 	R11 1k
 	R13 Präz. Trimmer stehend, 10k (siehe Text, Reichelt 64W-10K)
   
