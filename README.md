@@ -6,7 +6,11 @@ Maker Media GmbH
 
 # Akku-Kapazitäts-Messgerät
 
-R5..R6 sind für blaue Displays mit weißer Hintergrundbeleuchtung bemessen. Ggf. ist R5 bei unzureichender Kontrast-Einstellbarkeit kleiner zu wählen (2k2..4k7). R6 und R7 sind so zu bemessen, dass der Nennstrom der Hintergrundbeleuchtung nicht überschritten wird.
+### für Li-Ion- und NiMH-Zellen, Make 1/2020 S. 100
+
+![Picture](https://github.com/MakeMagazinDE/Kapazit-Messg/blob/master/iot_dimmer_v02.jpg)
+
+R5..R7 sind für blaue Displays mit weißer Hintergrundbeleuchtung bemessen. Ggf. ist R5 bei unzureichender Kontrast-Einstellbarkeit kleiner zu wählen (2k2..4k7). R6 und R7 sind so zu bemessen, dass der Nennstrom der Hintergrundbeleuchtung nicht überschritten wird.
 
 R13 ist nur bei erhöhten Anforderungen an die Genauigkeit erforderlich (Referenzspannung auf +2,50V gegenüber Masse an PL3 einstellen).
 
