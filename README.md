@@ -57,8 +57,3 @@ Für die Genauigkeit der Messung ist R10 entscheidend. Statt eines teuren Mangan
 	PL2 Anschlussklemme 2pol. steckbar, RM 5,08 (Reichelt AKL 249-02 und AKL 230-02)
 	SW1..SW4 Print-Taster DT6, ITT Schadow (Reichelt DT 6)
   
-  
-  
-  
-  
-  
